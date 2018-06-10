@@ -1,0 +1,21 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url('/assets/images/paypal-background-2.jpg');
+    background-repeat: no-repeat;;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+#bem-vindo{
+    margin: 10px 0;width: 200px;float: left;
+}
+
+#btn-logar{
+    float: right;margin: 8px 0;
+}
+
+#box{
+    border: solid 1px #e6e6e6;background-color: #fff;
+}
